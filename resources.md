@@ -4,7 +4,7 @@ category: resources
 title: Resources
 ---
 
-A single resource cannot cover all microbiologists and all identities those scientists might hold so we encourage you to utilize other lists of diverse scientists.
+A single resource cannot cover all immunologists and all identities those scientists might hold so we encourage you to utilize other lists of diverse scientists.
 
 ### Other useful resources:
 
@@ -17,6 +17,6 @@ A single resource cannot cover all microbiologists and all identities those scie
 * [Expert Women in Microbiology](https://docs.google.com/spreadsheets/d/1xw6W2noEUrpc5AFbLgkBGwR1KHIBnay2M9tT_bHaxqk/edit?usp=sharing)
 * [DiversifyChemistry](http://diversifychemistry.com/)
 * [DiversifyEEB](http://diversifyeeb.com/)
-* [DiversifyImmunology]()
+* [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
