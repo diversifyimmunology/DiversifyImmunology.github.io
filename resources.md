@@ -20,3 +20,6 @@ A single resource cannot cover all immunologists and all identities those scient
 * [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
+
+#### Instructions to make your own Diversify website
+* [DiversifyMicrobiology Read-Me](https://github.com/diversifymicrobiology/DiversifyMicrobiology.github.io)
