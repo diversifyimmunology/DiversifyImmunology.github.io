@@ -1,7 +1,7 @@
 ---
 layout: index_page
 category: list
-title: DiversifyMicro List
+title: DiversifyImmuno List
 ---
 
 {::options parse_block_html="true" /}
