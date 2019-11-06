@@ -13,5 +13,5 @@ _**Notice to search committees:**_
 [Open DiversifyImmuno in a new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmpPoEKbA9kakUlvJ50MyL9c9ynIFN9ahOlgNGBzxQ-btI1SndYQe66vcCbHGwhiQLzTO1TjR1X0Wl/pubhtml)
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQmpPoEKbA9kakUlvJ50MyL9c9ynIFN9ahOlgNGBzxQ-btI1SndYQe66vcCbHGwhiQLzTO1TjR1X0Wl/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQmpPoEKbA9kakUlvJ50MyL9c9ynIFN9ahOlgNGBzxQ-btI1SndYQe66vcCbHGwhiQLzTO1TjR1X0Wl/pubhtml?widget=true&amp;headers=false" width="700" height="500" scroll="true"></iframe>
 </figure>
